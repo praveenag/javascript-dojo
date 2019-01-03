@@ -2,19 +2,19 @@ import React, { Component } from 'react';
 import './App.css';
 import check from './check.js'
 
-/* 
+/*
  * [ // every 4th
  *   1, 0, 0,
  *   0, 1, 0,
  *   0, 0, 1
  * ]
- * 
+ *
  * [ // every 2th
  *   0, 0, 1,
  *   0, 1, 0,
  *   1, 0, 0
  * ]
- * 
+ *
  * [ // every
  *   1, 1, 1,
  *   0, 0, 0,
